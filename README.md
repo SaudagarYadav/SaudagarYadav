@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SaudagarYadav
+- 👋 Hi, I’m Saudagar Yadav
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java, hybris and react js
-- 💞️ I’m looking to collaborate on idea implmentation
+- 💞️ I’m looking to collaborate on any unqiue idea for implementation 
 - 📫 How to reach me saudagar,yadav@gmail.com
 
 <!---
