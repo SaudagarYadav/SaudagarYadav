@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saudagar Yadav
-- 👀 I’m interested in coding
-- 🛷I like travelling and going on mountain hiking
+- 👀 I’m Software developer by profession
+- 🛷 I like travelling and going on mountain hiking
 - 🌱 I’m currently learning Java, SAP hybris and react js
 - 💞️ I’m looking to collaborate on any unqiue idea for implementation 
 - 📫 How to reach me? saudagar.yadav@gmail.com
